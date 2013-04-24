@@ -4,7 +4,7 @@ Upload your files quickly (through ssh).
 ## Installation
 ```sh
 cd /opt
-git clone https://github.com/lifeisfoo/fup.git
+sudo git clone https://github.com/lifeisfoo/fup.git
 sudo ln -s /opt/fup/fup.sh /usr/bin/fup
 ```
 Now you can launch ```fup``` from everywhere.
