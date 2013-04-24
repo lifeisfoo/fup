@@ -17,6 +17,7 @@
 
 #[Author] Alessandro Miliucci <lifeisfoo@gmail.com>
 #[Website] Alessandro Miliucci <http://forkwait.net>
+#[Project Website] https://github.com/lifeisfoo/fup
 #[Year] 2013
 
 ##############################################################################
