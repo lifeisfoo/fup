@@ -58,3 +58,7 @@ GPL v3
 
 ## Author
 Alessandro Miliucci <lifeisfoo@gmail.com>
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/lifeisfoo/fup/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
